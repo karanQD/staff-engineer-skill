@@ -100,7 +100,7 @@ The only file you need to get started is **`skill.md`**. Everything else is supp
 ```bash
 mkdir -p .cursor/rules
 curl -o .cursor/rules/staff-engineer.mdc \
-  https://raw.githubusercontent.com/yourusername/staff-engineer-skill/main/skill.md
+  https://raw.githubusercontent.com/karanQD/staff-engineer-skill/main/skill.md
 ```
 
 ---
@@ -112,7 +112,7 @@ curl -o .cursor/rules/staff-engineer.mdc \
 
 ```bash
 curl -o .github/copilot-instructions.md \
-  https://raw.githubusercontent.com/yourusername/staff-engineer-skill/main/skill.md
+  https://raw.githubusercontent.com/karanQD/staff-engineer-skill/main/skill.md
 ```
 
 ---
