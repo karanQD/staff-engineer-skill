@@ -72,16 +72,6 @@ staff-engineer-skill/
 ├── CHANGELOG.md          # Version history
 ├── CONTRIBUTING.md       # Contribution guidelines
 ├── LICENSE               # MIT License
-├── appendices/           # Language-specific extensions (community contributed)
-│   ├── go.md
-│   ├── python.md
-│   ├── typescript.md
-│   └── ...
-└── examples/             # Real session transcripts showing the skill in action
-    ├── feature-development.md
-    ├── bug-investigation.md
-    ├── code-review.md
-    └── ...
 ```
 
 The only file you need to get started is **`skill.md`**. Everything else is supporting material.
