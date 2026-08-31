@@ -66,5 +66,5 @@ Changes staged for the next release will appear here.
 
 ---
 
-[Unreleased]: https://github.com/yourusername/staff-engineer-skill/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/yourusername/staff-engineer-skill/releases/tag/v1.0.0
+[Unreleased]: https://github.com/karanQD/staff-engineer-skill/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/karanQD/staff-engineer-skill/releases/tag/v1.0.0
